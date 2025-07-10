@@ -35,6 +35,10 @@ Welcome to my coffee website — a perfect place for coffee lovers! Here's what 
 
 Whether you're new to coffee or a long-time fan, this website is designed to give you everything you need in one place — taste, knowledge, and convenience.
 
-SCREEN RECORDING
+OUTPUT
+
+Desktop view
+
+<img width="1359" height="647" alt="Image" src="https://github.com/user-attachments/assets/cce7e69e-0163-4ce0-9255-bb64bc827b8a" />
 
 
