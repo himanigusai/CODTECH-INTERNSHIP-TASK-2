@@ -41,4 +41,8 @@ Desktop view
 
 <img width="1359" height="647" alt="Image" src="https://github.com/user-attachments/assets/cce7e69e-0163-4ce0-9255-bb64bc827b8a" />
 
+![Image](https://github.com/user-attachments/assets/748ed923-a545-4f44-a82e-38784c720166)
+
+
+
 
