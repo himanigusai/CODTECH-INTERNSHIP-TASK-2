@@ -45,6 +45,10 @@ Desktop view
 
 ![Image](https://github.com/user-attachments/assets/ba7c92ed-cccc-4364-b3ba-e74ad9ebfadf)
 
+![Image](https://github.com/user-attachments/assets/64ad9096-e133-4e6d-a3b6-77176b991fc3)
+
+Moblie view
+
 
 
 
