@@ -53,6 +53,13 @@ Moblie view
 <img width="314" height="561" alt="Image" src="https://github.com/user-attachments/assets/193f00e9-9910-42de-b976-c9b68acf17e6" />
 <img width="321" height="562" alt="Image" src="https://github.com/user-attachments/assets/7fc0b286-7147-47f7-86fa-afd67fda2aea" />
 
+ SCREEN RECORDING OF TASK 2
+
+https://github.com/user-attachments/assets/a4861976-139e-423d-801f-f87da45c40cd
+
+
+
+
 
 
 
