@@ -43,6 +43,10 @@ Desktop view
 
 ![Image](https://github.com/user-attachments/assets/748ed923-a545-4f44-a82e-38784c720166)
 
+![Image](https://github.com/user-attachments/assets/ba7c92ed-cccc-4364-b3ba-e74ad9ebfadf)
+
+
+
 
 
 
